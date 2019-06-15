@@ -1,7 +1,7 @@
 ![status](https://img.shields.io/badge/status-In%20Development-orange.svg) ![MIT](https://img.shields.io/npm/l/express.svg)
 
 # reddington
-Conceirge of Crime quote generator
+concierge of crime quote generator
 
 
 # Prerequisites
