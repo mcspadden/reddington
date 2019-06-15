@@ -3,12 +3,15 @@
 # reddington
 concierge of crime quote generator
 
+## Website Version
+Navigate [here](https://mcspadden.me/reddington) to use the web version.
 
-# Prerequisites
+## CLI Version
+### Prerequisites
 
 You will need python 3 installed to run reddington. Open up a CLI terminal then type `python -v` to see the current version installed. Go [here](https://docs.python.org/3/using/index.html "Python 3 documentation") for more information.
 
-# Installing and Utilizing reddington
+### Installing and Utilizing reddington
 **Linux**
  * To install reddington, go to the main github page [here](https://github.com/mcspadden/reddington "reddington"). 
  * _Click_ **_Clone or Download_** > **_Download ZIP_**
@@ -22,7 +25,7 @@ You will need python 3 installed to run reddington. Open up a CLI terminal then 
   ```
 reddington is now successfully running. 
  
-# Instructions
+### Instructions
 
 Once you start reddington and see `What’s your name?`, type in your name and click _**Enter**_.  
 
