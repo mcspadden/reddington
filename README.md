@@ -4,7 +4,7 @@
 concierge of crime quote generator
 
 ## Website Version
-Navigate [here](https://mcspadden.me/reddington) to use the web version.
+Navigate [here](https://reddington.mcspadden.me) to use the web version.
 
 ## CLI Version
 ### Prerequisites
