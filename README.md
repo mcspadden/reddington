@@ -1,4 +1,4 @@
-![status](https://img.shields.io/badge/status-In%20Development-orange.svg) ![MIT](https://img.shields.io/npm/l/express.svg)
+![status](https://img.shields.io/badge/version-v1.0-brightgreen.svg) ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # reddington
 concierge of crime quote generator
